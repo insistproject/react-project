@@ -1,0 +1,19 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "前端分布式插拔架构",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insistproject/react-project.git"
+  },
+  "author": "yc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insistproject/react-project/issues"
+  },
+  "homepage": "https://github.com/insistproject/react-project#readme"
+}
